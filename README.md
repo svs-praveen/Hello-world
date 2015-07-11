@@ -1,2 +1,2 @@
 # Hello-world
-Hello World Repository
+Hello World Repository. This is first sample repository.
