@@ -1,1 +1,3 @@
 This is reference notes for this project.
+1. Please update notes in this file only.
+2. Please add these changes as well.
