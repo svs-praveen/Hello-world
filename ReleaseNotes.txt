@@ -1,1 +1,2 @@
 1. This document should contain release notes for this project.
+Please give more details about this release.
